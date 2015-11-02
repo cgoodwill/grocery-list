@@ -2,16 +2,19 @@ body {
  /*   margin: auto;
     width: 10%;
     padding: 10px;*/
-	width: 500px;
+	/*width: 500px;
 	margin-left: auto;
 	margin-right: auto;
-	text-align: center;
-
+	text-align: center;*/
+	padding: 20 20px;
+	margin-left: 20px;
+	text-align: left;
+	font-family: verdana, sans-serif;
 }
 
 h1 { 
 	color: #218DCA; 
-	font: 30px arial, sans-serif; font-weight: bold; 
+	font: 30px helvetica, arial, sans-serif; font-weight: bold; 
 }
 
 ul {
@@ -19,6 +22,6 @@ ul {
 	padding-left: 0;
 }
 
-li {
+input, li {
 	cursor: pointer;
 }
