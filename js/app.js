@@ -1,16 +1,4 @@
 $(document).ready(function() {
-  // alert('test');
-  // $('.add-item').click(function() {
-  //   // alert('test');
-  //   var item = $('.new-item').val();
-
- 
- 	// if (item) {
-  //   	$('.new-item').val('');
-  //   	$('.active-list').append('<li>' + item + '</li>');
-  //   }
-    
-  // });
 	
   $('.form-item').submit(function(e) {
 
